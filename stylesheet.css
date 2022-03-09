@@ -16,12 +16,10 @@ aside {
 }
 #menuicono {
     display: none;
-    width: 95%;
+    width: 15%;
     height: 38px;
     padding: 12px 2% 0px 3%;
-    background-color: #9FC8D9;
-    border-top: 1px solid #094660;
-    border-bottom: 1px solid #094660;
+    
 }
 #menuicono {
     display: block;
@@ -29,12 +27,10 @@ aside {
 #menuprincipal {
     display: flex;
     justify-content: center;
-    width: 96%;
+    width: 16%;
     height: 50px;
     padding: 0% 2%;
-    background-color: #9FC8D9;
-    border-top: 1px solid #094660;
-    border-bottom: 1px solid #094660;
+    
 }
 #menuprincipal li {
 display: inline-block;
