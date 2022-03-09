@@ -14,3 +14,14 @@ aside {
     float: left;
     width: 30%;
 }
+#menuprincipal{
+    display: none;
+    width: 20%;
+    height: 100%;
+    padding: 0%;
+}
+#menuprincipal li{
+    display: block;
+    margin-right: 0px;
+    text-align: right;
+}
