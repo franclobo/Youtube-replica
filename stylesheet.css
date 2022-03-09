@@ -10,6 +10,15 @@ section {
     float: left;
     width: 50%;
 }
+section p{
+    float: left;
+    width: 50%;
+}
+div p{
+    float: left;
+    width: 100%;
+
+}
 aside {
     float: left;
     width: 30%;
@@ -22,12 +31,12 @@ aside {
     
 }
 #menuicono {
-    display: block;
+    display: flex;
 }
 #menuprincipal {
     display: flex;
     justify-content: center;
-    width: 16%;
+    width: 10%;
     height: 50px;
     padding: 0% 2%;
     
