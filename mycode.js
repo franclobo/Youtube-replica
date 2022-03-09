@@ -7,7 +7,7 @@
     function mostrarMenu() {
         var elemento = document.getElementById("menuprincipal");
         if (!visible) {
-            elemento.style.display = "block";
+            elemento.style.display = "flex";
             visible = true;
         } else {
             elemento.style.display = "none";
