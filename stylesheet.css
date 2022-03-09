@@ -2,9 +2,13 @@
     margin: 0px;
     padding: 0px;
 }
+nav {
+    float: left;
+    width: 20%
+}
 section {
     float: left;
-    width: 70%;
+    width: 50%;
 }
 aside {
     float: left;
